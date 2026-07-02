@@ -8,10 +8,20 @@ Built as a university assignment demonstrating API integration, state management
 
 ## 📸 Screenshots
 
-| Search Screen | Weather Details  | Weather Details | City Info  | City Info  |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Search Screen](UI_pic/search.png) | ![Details 1](UI_pic/detalis_1.png) | ![Details 2](UI_pic/detalis_2.png) | ![Info 1](UI_pic/info.png) | ![Info 2](UI_pic/info2.png) |
-| Search for any city | Full weather breakdown | Dynamic background & stats | Location & timezone | Detailed coordinates |
+<table align="center">
+  <tr>
+    <td align="center"><img src="UI_pic/search.png" width="200"><br><b>Search Screen</b><br>Search for any city</td>
+    <td align="center"><img src="UI_pic/detalis_1.png" width="200"><br><b>Weather Details</b><br>Full weather breakdown</td>
+    <td align="center"><img src="UI_pic/detalis_2.png" width="200"><br><b>Weather Details</b><br>Dynamic background & stats</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="UI_pic/info.png" width="200"><br><b>City Info</b><br>Location & timezone</td>
+    <td align="center"><img src="UI_pic/info2.png" width="200"><br><b>City Info</b><br>Detailed coordinates</td>
+  </tr>
+</table>
 
 
 
