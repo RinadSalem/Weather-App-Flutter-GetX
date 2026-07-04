@@ -11,17 +11,11 @@ Built as a university assignment demonstrating API integration, state management
 <table align="center">
   <tr>
     <td align="center"><img src="UI_pic/search.png" width="200"><br><b>Search Screen</b><br>Search for any city</td>
-    <td align="center"><img src="UI_pic/detalis_1.png" width="200"><br><b>Weather Details</b><br>Full weather breakdown</td>
-    <td align="center"><img src="UI_pic/detalis_2.png" width="200"><br><b>Weather Details</b><br>Dynamic background & stats</td>
+    <td align="center"><img src="UI_pic/details.png" width="200"><br><b>Weather Details</b><br>Full weather breakdown</td>
+<td align="center"><img src="UI_pic/info.png" width="200"><br><b>City Info</b><br>Location & timezone</td>
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="UI_pic/info.png" width="200"><br><b>City Info</b><br>Location & timezone</td>
-    <td align="center"><img src="UI_pic/info2.png" width="200"><br><b>City Info</b><br>Detailed coordinates</td>
-  </tr>
-</table>
 
 
 
